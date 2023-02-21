@@ -1,2 +1,2 @@
 # Text Typer for Unity
-# C# script
+Script that typing symbols in your TextField
